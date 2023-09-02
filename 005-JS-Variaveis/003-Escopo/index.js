@@ -5,8 +5,8 @@
 */
 
 {
-  let nome = 'Geison';
-  console.log(nome);
+    let nome = 'Geison';
+    console.log(nome);
 }
 
 console.log(nome);

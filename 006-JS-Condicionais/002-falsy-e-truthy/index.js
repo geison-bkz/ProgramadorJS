@@ -2,5 +2,5 @@
 // Truthy = Todos os outros diferentes do [ falsy ]
 
 if (1 + 1) {
-  console.log('True');
+    console.log('True');
 }

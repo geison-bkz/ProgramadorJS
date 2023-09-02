@@ -12,7 +12,7 @@
 //var arguments;
 
 (() => {
-  teste = 'Teste';
+    teste = 'Teste';
 })();
 
 console.log(teste);

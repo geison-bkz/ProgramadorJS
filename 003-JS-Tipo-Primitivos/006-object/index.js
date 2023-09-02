@@ -7,8 +7,8 @@
 */
 
 console.log({
-  tenis: {
-    cadarco: 'G',
-    palmilha: 'G',
-  },
+    tenis: {
+        cadarco: 'G',
+        palmilha: 'G',
+    },
 });

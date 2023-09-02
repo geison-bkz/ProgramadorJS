@@ -1,7 +1,7 @@
 const Tenis = {
-  tamanho: 45,
-  estoque: true,
-  marcas: [{ nome: 'Nike' }, { nome: 'Adidas' }, { nome: 'Mizuno' }],
+    tamanho: 45,
+    estoque: true,
+    marcas: [{ nome: 'Nike' }, { nome: 'Adidas' }, { nome: 'Mizuno' }],
 };
 
 const { tamanho, estoque: temEstoque, marcas } = Tenis;

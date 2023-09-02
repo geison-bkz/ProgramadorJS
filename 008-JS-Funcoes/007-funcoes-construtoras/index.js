@@ -13,13 +13,13 @@ console.log(meuNome.nomeCompleto());
 */
 
 function Calculadora() {
-  this.soma = (num1, num2) => {
-    return `${num1 + num2}`;
-  };
+    this.soma = (num1, num2) => {
+        return `${num1 + num2}`;
+    };
 
-  this.subtracao = (num1, num2) => {
-    return `${num1 - num2}`;
-  };
+    this.subtracao = (num1, num2) => {
+        return `${num1 - num2}`;
+    };
 }
 
 const calculadora = new Calculadora();

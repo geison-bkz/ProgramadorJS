@@ -1,10 +1,10 @@
 let Tenis = {
-  tamanho: 45,
-  estoque: true,
+    tamanho: 45,
+    estoque: true,
 };
 
 let link = {
-  link: { a: 'a', b: { c: 'c' } },
+    link: { a: 'a', b: { c: 'c' } },
 };
 
 let clone1 = Tenis;

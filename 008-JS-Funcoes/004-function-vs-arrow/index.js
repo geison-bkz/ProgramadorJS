@@ -5,13 +5,13 @@
     4 - Arguments
 */
 function nomeFunc() {
-  return 'Geison dos Santos';
+    return 'Geison dos Santos';
 }
 
 console.log(nomeFunc());
 
 const newFuncArrow = () => {
-  return 'Geison com arrow';
+    return 'Geison com arrow';
 };
 
 console.log(newFuncArrow());

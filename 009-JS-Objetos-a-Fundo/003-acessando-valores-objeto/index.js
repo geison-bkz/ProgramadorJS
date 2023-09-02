@@ -1,6 +1,6 @@
 const Tenis = {
-  tamanho: 40,
-  marca: 'Nike',
+    tamanho: 40,
+    marca: 'Nike',
 };
 
 console.log(Tenis.marca);
