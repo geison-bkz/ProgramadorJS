@@ -13,6 +13,6 @@ const myArrayObj = [
     },
 ];
 
-myArrayObj.forEach((item) => {
-    console.log(item);
+myArrayObj.forEach((item, index) => {
+    console.log(index, item.nome);
 });
